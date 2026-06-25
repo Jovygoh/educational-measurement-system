@@ -5,9 +5,9 @@
 ---
 
 ## 👥 Project Contributors & Roles
-* [cite_start]**Goh Xuan Hui** — Voltage, Resistor, and Connectivity modules [cite: 3]
-* [cite_start]**Wong Carman** — Temperature, Capacitance, and Current modules [cite: 3]
-* [cite_start]**Elveis Ng Kai Wei** — Oscillator / Waveform Capture engine & User Interface design [cite: 3]
+* [cite_start]**Member1** — Voltage, Resistor, and Connectivity modules [cite: 3]
+* [cite_start]**Member2** — Temperature, Capacitance, and Current modules [cite: 3]
+* [cite_start]**Member3** — Oscillator / Waveform Capture engine & User Interface design [cite: 3]
 
 ---
 
